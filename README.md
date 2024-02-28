@@ -1,7 +1,7 @@
 # currency_converter
 An currency converter made using Python
 
-#Requirements
+# Requirements
 
 - Must have python, tkinter, customtkinter and request module installed in your computer
 
