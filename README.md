@@ -1,5 +1,5 @@
 # currency_converter
-An currency converter made using customtkinter and api
+An currency converter made using Python
 
 #Requirements
 
